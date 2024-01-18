@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritanand-py&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amritanand-py&layout=compact)
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritanand-py&show_icons=true&theme=radical)
 
