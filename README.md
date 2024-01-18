@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritanand-py&show_icons=true&theme=radical)
+![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritanand-py&show_icons=true&theme=radical)
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritanand-py&show_icons=true&theme=radical)
