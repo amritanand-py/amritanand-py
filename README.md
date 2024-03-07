@@ -7,6 +7,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amritanand-py&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amritanand-py&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=amritanand-py&icon=0&color=0)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
